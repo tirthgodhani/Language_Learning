@@ -20,10 +20,10 @@ A modern language learning application built with Flutter that helps users learn
 ## 📱 Screenshots
 
 <p float="left">
-  <img src="assets/screenshots/home.png" width="200" />
-  <img src="assets/screenshots/quiz.png" width="200" /> 
-  <img src="assets/screenshots/practice.png" width="200" />
-  <img src="assets/screenshots/profile.png" width="200" />
+  <img src="assets/screenshots/home.jpg" width="200" />
+  <img src="assets/screenshots/letters.jpg" width="200" /> 
+  <img src="assets/screenshots/modules.jpg" width="200" />
+  <img src="assets/screenshots/game.jpg" width="200" />
 </p>
 
 ## 🚀 Getting Started
@@ -39,7 +39,7 @@ A modern language learning application built with Flutter that helps users learn
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/language_learning.git
+git clone https://github.com/tirthgodhani/language_learning.git
 ```
 
 2. Navigate to project directory
@@ -88,12 +88,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-- Your Name
-- Twitter: [@yourusername](https://twitter.com/yourusername)
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- Tirth Godhani - https://github.com/tirthgodhani
 
 ## 🙏 Acknowledgments
 
-- [Flutter Team](https://flutter.dev/team)
-- [WordsAPI](https://wordsapi.com/)
 - All contributors and supporters
